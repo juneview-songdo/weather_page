@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/weather_page/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/weather_page/assets/21379657/56fe039a-1212-4d44-ba29-0ff0377c5ae3)
 

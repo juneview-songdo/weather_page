@@ -1,7 +1,7 @@
 name: weather_page
-description: "Description here"
+description: "weather page for juneview"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/weather_page
 
 version: 1.0.0+1
 
