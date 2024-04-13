@@ -2,7 +2,6 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:weather/weather.dart';
 
 import '../../../../../../../../main.dart';
 import '_/state_child.dart';
