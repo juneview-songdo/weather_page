@@ -3,7 +3,7 @@ description: "weather page for juneview"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/weather_page
 
-version: 1.0.3
+version: 1.0.5
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
